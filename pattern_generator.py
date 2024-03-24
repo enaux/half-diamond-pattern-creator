@@ -16,6 +16,14 @@ It then allows the user to generate as many patterns as they wish, and to choose
 
 """
 
+print("-"*65)
+print("Welcome to the Half-Diamond Pattern Generator!")
+print("-"*65)
+print("The program can generate patterns in the shape of a half-diamond.")
+print("An example is seen below:")
+
+
+
 
 # Initial pattern is printed for the user.
 # Additional print() statements are for spacing.
